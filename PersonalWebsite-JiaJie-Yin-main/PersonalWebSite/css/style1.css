@@ -1,0 +1,33 @@
+.my_container_div{
+    background-color: rgb(209, 244, 153);
+    border: gainsboro;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  h4{
+    border-bottom: 2px double #1C6EA4;
+    padding: 10px;
+    margin: 5px 10px 5px 10px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+  }
